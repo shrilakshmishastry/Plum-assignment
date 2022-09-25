@@ -1,0 +1,28 @@
+.footerContainer{
+height: 4rem;
+background: #ffffff;
+
+width:90vw;
+}
+
+.nextBtn{
+ 
+  padding-left: 4rem ;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  padding-right: 4rem;
+  border: 0px;
+  border-radius: 0.3rem;
+  font-size: 18px;
+  
+}
+
+.nextBtnEnabled{
+ background-color: #E06358;
+ color: #ffffff;
+}
+
+.nextBtnDisabled{
+background-color: #8C98AB;
+color: #000000;
+}
